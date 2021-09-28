@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "373516712672",
+    "project_id": "app-te-lo-vendo",
+    "storage_bucket": "app-te-lo-vendo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373516712672:android:cdfabe567dc70c77fb2e85",
+        "android_client_info": {
+          "package_name": "com.venta.app_ventas_ropa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373516712672-15c3sk70hdh898hroq9r79nnfct5f71m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venta.app_ventas_ropa",
+            "certificate_hash": "614c67e5ef6ad85aca0f2e6a27ce65b897567d6e"
+          }
+        },
+        {
+          "client_id": "373516712672-pdbohmldr4beqqa4q36372lmkd6tad67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdrsm4-oj1CeE4GMbEDn-y-zmvEnHpvkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373516712672-pdbohmldr4beqqa4q36372lmkd6tad67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
